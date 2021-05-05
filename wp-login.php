@@ -96,7 +96,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://topipajukko.github.io/portfolio/wp-includes/js/wp-util.min.js?ver=5.7.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"d1042e3d88"};
+var userProfileL10n = {"user_id":"0","nonce":"777cc5d6c1"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
