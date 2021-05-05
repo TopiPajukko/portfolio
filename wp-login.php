@@ -12,7 +12,11 @@
 <link rel="stylesheet" id="login-css" href="https://topipajukko.github.io/portfolio/wp-admin/css/login.min.css?ver=5.7.1" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</head>
+	<link rel="icon" href="https://topipajukko.github.io/portfolio/wp-content/uploads/2021/05/cropped-Tringo_uus-32x32.png" sizes="32x32">
+<link rel="icon" href="https://topipajukko.github.io/portfolio/wp-content/uploads/2021/05/cropped-Tringo_uus-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://topipajukko.github.io/portfolio/wp-content/uploads/2021/05/cropped-Tringo_uus-180x180.png">
+<meta name="msapplication-TileImage" content="https://topipajukko.github.io/portfolio/wp-content/uploads/2021/05/cropped-Tringo_uus-270x270.png">
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">
 		document.body.className = document.body.className.replace('no-js','js');
