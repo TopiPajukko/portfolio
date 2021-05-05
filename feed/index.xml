@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Topin portfolio</title>
-	<atom:link href="/https://topipajukko.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://topipajukko.github.io/portfolio</link>
+	<atom:link href="https://topipajukko.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://topipajukko.github.io/portfolio</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 22 Apr 2021 08:15:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/https://topipajukko.github.io/portfolio/2021/04/22/hello-world/</link>
-					<comments>/https://topipajukko.github.io/portfolio/2021/04/22/hello-world/#comments</comments>
+		<link>https://topipajukko.github.io/portfolio/2021/04/22/hello-world/</link>
+					<comments>https://topipajukko.github.io/portfolio/2021/04/22/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[topipajukko]]></dc:creator>
 		<pubDate>Thu, 22 Apr 2021 08:15:36 +0000</pubDate>
@@ -34,15 +34,15 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://topipajukko.github.io/portfolio/2021/04/22/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://topipajukko.github.io/portfolio/2021/04/22/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lorem ipsum</title>
-		<link>/https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum-3/</link>
-					<comments>/https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum-3/#respond</comments>
+		<link>https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum-3/</link>
+					<comments>https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum-3/#respond</comments>
 		
 		<dc:creator><![CDATA[topipajukko]]></dc:creator>
 		<pubDate>Mon, 01 Apr 2019 07:46:04 +0000</pubDate>
@@ -59,15 +59,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum-3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lorem ipsum</title>
-		<link>/https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum-2/</link>
-					<comments>/https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum-2/#respond</comments>
+		<link>https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum-2/</link>
+					<comments>https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum-2/#respond</comments>
 		
 		<dc:creator><![CDATA[topipajukko]]></dc:creator>
 		<pubDate>Mon, 01 Apr 2019 07:45:56 +0000</pubDate>
@@ -84,15 +84,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lorem Ipsum</title>
-		<link>/https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum/</link>
-					<comments>/https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum/#respond</comments>
+		<link>https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum/</link>
+					<comments>https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum/#respond</comments>
 		
 		<dc:creator><![CDATA[topipajukko]]></dc:creator>
 		<pubDate>Mon, 01 Apr 2019 07:45:40 +0000</pubDate>
@@ -109,7 +109,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum/feed/</wfw:commentRss>
+					<wfw:commentRss>https://topipajukko.github.io/portfolio/2019/04/01/lorem-ipsum/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
